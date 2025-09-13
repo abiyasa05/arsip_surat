@@ -109,3 +109,8 @@ Aplikasi web Laravel untuk mengarsipkan surat-surat resmi desa, dengan fitur upl
 	- ![Hapus Kategori](screenshots/hapus-kategori.png)
 
 ---
+
+### Fitur Halaman About
+- **Halaman About**
+  - Menampilkan informasi pembuat aplikasi beserta foto profil.
+  - ![About](screenshots/about.png)
