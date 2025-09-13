@@ -4,17 +4,9 @@
 Aplikasi web Laravel untuk mengarsipkan surat-surat resmi desa, dengan fitur upload, pencarian, kategori, preview, download, dan pengelolaan kategori surat.
 
 ## Fitur Utama
-- Upload surat (PDF)
-- Preview surat (PDF) langsung di aplikasi
-- Pencarian surat berdasarkan judul
-- Download surat
-- Edit dan hapus surat
-- Manajemen kategori surat
-- Halaman About
 
 ## Kebutuhan Sistem
-- PHP >= 8.1
-- Composer
+ Folder `storage/app/public/surat/` dan file PDF surat akan ikut ter-push ke repository (tidak diabaikan oleh .gitignore), sehingga file surat tetap bisa diakses setelah clone/pull.
 - MySQL/MariaDB
 - Node.js & npm (untuk frontend build opsional)
 
